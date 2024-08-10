@@ -3,7 +3,7 @@ markupsafe
 jinja2
 gunicorn
 # for building model
-scikit-learn
+scikit-learn==1.2.0
 numpy
 pandas
 matplotlib
